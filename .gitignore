@@ -1,5 +1,3 @@
 .venv
-data/generated/
-data/predicted-1/
-data/predicted-2/
-data/processed/
+data/
+ydata_profiling_report.html
